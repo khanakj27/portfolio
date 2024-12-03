@@ -1,0 +1,37 @@
+body
+{
+    background-color:palegoldenrod;
+    background-position: right;
+    background-image: url('https://eliteediting.com/wp-content/uploads/Why-every-ceo-should-be-on-linkedin-in-2023_vertical.jpg');
+    background-repeat: no-repeat;
+    background-size: 25%;
+}
+header
+{
+    text-align: center;
+    padding:20px;
+}
+marquee
+{
+    color:cadetblue;
+    font-size: xx-large;
+    font-style: italic;
+}
+h1
+{
+
+    color:navy;
+}
+h2 
+{
+    
+    font-style:italic ;
+    color:darkgreen;
+}
+p 
+{
+   
+    font-size: larger;
+    line-height: 1.6;
+    margin: 20px;
+}
